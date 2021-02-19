@@ -11,4 +11,4 @@ Deployed to AWS Elastic Beanstalk:  http://expensetrackermern-env.eba-5v8gizuf.c
 
 
 
-Based on Brad Traversy's YouTube tutorial series
+[Based on Brad Traversy's YouTube tutorial series](https://youtu.be/XuFDcZABiDQ)
